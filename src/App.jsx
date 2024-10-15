@@ -10,6 +10,8 @@ import Photos from './components/Photos';
 import Team from './components/Team';
 import FAQ from './components/faq';
 import Footer from './components/Footer';
+import './index.css'; // Ensure this line is present
+
 
 const App = () => {
   return (
